@@ -1,24 +1,5 @@
-# README
+# Autenticação Rails 7.1 do zero
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails 7.1 introduz novos recursos para autenticação. 
+Esta aplicação foi criada com base em um vídeo tutorial do canal do Youtube Gorails com a finalidade de estudo.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
